@@ -89,45 +89,46 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ```
 
 ## Output:
-Dataset
+
+# Dataset
 
 ![Screenshot 2024-09-14 160445](https://github.com/user-attachments/assets/058681b1-bb75-412f-b01d-701362346bdc)
 
-Head
+# Head
 
 ![Screenshot 2024-09-14 160501](https://github.com/user-attachments/assets/d68d5c04-06c5-4e8f-8216-adc1c28eb18b)
 
-Null values
+# Null values
 
 ![Screenshot 2024-09-14 160509](https://github.com/user-attachments/assets/e436b60c-e51a-4132-8081-de1769faefae)
 
-Sum of Duplicate values
+# Sum of Duplicate values
 
 ![Screenshot 2024-09-14 160517](https://github.com/user-attachments/assets/7373e66c-3351-4a2b-922b-bc3a345440d4)
 
-X and Y data
+# X and Y data
 
 ![Screenshot 2024-09-14 160542](https://github.com/user-attachments/assets/28bd8242-7e7c-4b64-b666-ac9e8346a8b0)
 
 ![Screenshot 2024-09-14 160555](https://github.com/user-attachments/assets/c278e919-56fd-468f-9dac-5ced028d5dd0)
 
-Train data
+# Train data
 
 ![Screenshot 2024-09-14 160604](https://github.com/user-attachments/assets/163ae553-8d6a-4389-84e5-c11e27aab4e0)
 
-Test data
+# Test data
 
 ![Screenshot 2024-09-14 160612](https://github.com/user-attachments/assets/eb53d7db-ad1e-4ac1-a6be-c8a667447d7f)
 
-Accuracy
+# Accuracy
 
 ![Screenshot 2024-09-14 160618](https://github.com/user-attachments/assets/b9bec65b-d38f-4c2c-8b9e-e65ab8dc8e38)
 
-*Confusion Matrix*
+# Confusion Matrix
 
 ![Screenshot 2024-10-19 171311](https://github.com/user-attachments/assets/9cf68af0-674a-4067-96f2-fc83fd61a945)
 
-*Precision*
+# Precision
 
 ![Screenshot 2024-10-19 171322](https://github.com/user-attachments/assets/d4be70ab-a87b-4eb1-a9d5-6726665b29b2)
 
